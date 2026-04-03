@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tyler Wylde
+- 👋 Hi, I’m Tyler Bea
 
 
 <!---
